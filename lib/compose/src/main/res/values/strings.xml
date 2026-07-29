@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="metro_switch_state_on">On</string>
+    <string name="metro_switch_state_off">Off</string>
+</resources>
