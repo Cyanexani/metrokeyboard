@@ -1,7 +1,0 @@
-{
-  "id": "dev.patrickgold.metroboard.beta",
-  "url": "https://github.com/metroboard/metroboard",
-  "author": "metroboard",
-  "name": "MetroboardBoard Preview",
-  "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"apkFilterRegEx\":\"preview\"}"
-}

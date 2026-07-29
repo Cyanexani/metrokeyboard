@@ -1,3 +1,0 @@
-This release reworks the audio and haptic feedback of MetroboardBoard and fixes a lot of bugs.
-
-Detailed changelog: https://github.com/metroboard/metroboard/releases/tag/v0.3.13-beta09
