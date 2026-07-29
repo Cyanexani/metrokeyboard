@@ -192,7 +192,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Bir tuşun kodunu bulmak için kod giriş alanının yanındaki düğmeyi kullanın. Etkinleştirildiğinde, bir sonraki tuşa basışı kaydedecek ve kodu giriş alanına ekleyecektir.</string>
     <string name="settings__theme_editor__code_recording_started">Tuş kodu kaydı başlatıldı</string>
     <string name="settings__theme_editor__code_recording_stopped">Tuş kodu kaydı durduruldu</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">Bir tuş kodunu kaydetmek için {app_name}\'in varsayılan klavye olması gerekir</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">Bir tuş kodunu kaydetmek için {app_name}\'in varsayılan klavye olması gerekir</string>
     <string name="settings__theme_editor__code_recording_placeholder">Kaydediliyor…</string>
     <string name="settings__theme_editor__add_property">Özellik ekle</string>
     <string name="settings__theme_editor__edit_property">Özelliği düzenle</string>
@@ -461,9 +461,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Sistem kullanıcı sözlüğü için girdiler ekle, görüntüle ve kaldır</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Dahili kullanıcı sözlüğünü etkinleştir</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Dahili kullanıcı sözlüğünde saklanan kelimeleri öner</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Dahili kullanıcı sözlüğünü yönet</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Dahili kullanıcı sözlüğü için girdiler ekle, görüntüle ve kaldır</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Dahili Kullanıcı Sözlüğü</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Dahili kullanıcı sözlüğünü yönet</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Dahili kullanıcı sözlüğü için girdiler ekle, görüntüle ve kaldır</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Dahili Kullanıcı Sözlüğü</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Sistem Kullanıcı Sözlüğü</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Bu kullanıcı sözlüğü herhangi bir kelime içermiyor.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Sıklık: {freq}</string>

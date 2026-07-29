@@ -194,7 +194,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Pro nalezení kódu klávesy použijte tlačítko vedle vstupního pole kódu. Po aktivaci bude zaznamenáno další stisknutí klávesy a kód bude vložen do vstupního pole.</string>
     <string name="settings__theme_editor__code_recording_started">Nahrávání kódu klávesy spuštěno</string>
     <string name="settings__theme_editor__code_recording_stopped">Nahrávání kódu klávesy ukončeno</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">Pro zaznamenání kódu klávesy musí být výchozí klávesnice nastavena na {app_name}</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">Pro zaznamenání kódu klávesy musí být výchozí klávesnice nastavena na {app_name}</string>
     <string name="settings__theme_editor__code_recording_placeholder">Nahrávání…</string>
     <string name="settings__theme_editor__add_property">Přidat vlastnost</string>
     <string name="settings__theme_editor__edit_property">Upravit vlastnost</string>
@@ -470,9 +470,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Přidat, prohlédnout nebo upravit slova ve vlastním systémovém slovníku</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Použít vlastní interní slovník</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Nabízet slova uložená ve vlastním interním slovníku</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Spravovat vlastní interní slovník</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Přidat, prohlédnout nebo upravit slova ve vlastním interním slovníku</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Vlastní interní slovník</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Spravovat vlastní interní slovník</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Přidat, prohlédnout nebo upravit slova ve vlastním interním slovníku</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Vlastní interní slovník</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Vlastní systémový slovník</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Tento uživatelský slovník neobsahuje žádná slova.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frekvence: {freq}</string>

@@ -193,7 +193,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Чтобы найти код клавиши, используйте кнопку рядом с полем ввода кода. После активации следующее нажатие кнопки будет записано и код вставлен в поле ввода.</string>
     <string name="settings__theme_editor__code_recording_started">Началась запись кода клавиши</string>
     <string name="settings__theme_editor__code_recording_stopped">Запись кода клавиши остановлена</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} должна быть клавиатурой по умолчанию для записи кода клавиши</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} должна быть клавиатурой по умолчанию для записи кода клавиши</string>
     <string name="settings__theme_editor__code_recording_placeholder">Запись…</string>
     <string name="settings__theme_editor__add_property">Добавить свойство</string>
     <string name="settings__theme_editor__edit_property">Изменить свойство</string>
@@ -464,9 +464,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Добавление, просмотр и удаление записей в системном пользовательском словаре</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Использовать внутренний словарь пользователя</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Предлагать слова, находящиеся во внутреннем словаре пользователя</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Управление внутренним словарём пользователя</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Добавление, просмотр и удаление записей во внутреннем пользовательском словаре</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Внутренний словарь пользователя</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Управление внутренним словарём пользователя</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Добавление, просмотр и удаление записей во внутреннем пользовательском словаре</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Внутренний словарь пользователя</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Системный словарь пользователя</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Этот пользовательский словарь не содержит слов.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Частота: {freq}</string>

@@ -195,7 +195,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Aby sprawdzić kod przycisku, użyj przycisku poza polem do wpisywania kodu. Po aktywacji kolejne naciśnięcia przycisków będą przechwytywane, a kod wyświetli się w polu tekstowym.</string>
     <string name="settings__theme_editor__code_recording_started">Rozpoczęto przechwytywanie kodu przycisku</string>
     <string name="settings__theme_editor__code_recording_stopped">Wstrzymano przechwytywanie kodu przycisku</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">Aplikacja {app_name} musi być ustawiona jako domyślna klawiatura, aby móc przechwycić kod przycisku</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">Aplikacja {app_name} musi być ustawiona jako domyślna klawiatura, aby móc przechwycić kod przycisku</string>
     <string name="settings__theme_editor__code_recording_placeholder">Nagrywam…</string>
     <string name="settings__theme_editor__add_property">Dodaj właściwość</string>
     <string name="settings__theme_editor__edit_property">Edytuj właściwość</string>
@@ -471,9 +471,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Dodawaj, przeglądaj i usuwaj wpisy do systemowego słownika użytkownika</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Włącz wewnętrzny słownik użytkownika</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Sugeruj słowa przechowywane w wewnętrznym słowniku użytkownika</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Zarządzaj wewnętrznym słownikiem użytkownika</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Dodawaj, przeglądaj i usuwaj wpisy z wewnętrznego słownika użytkownika</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Wewnętrzny Słownik Użytkownika</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Zarządzaj wewnętrznym słownikiem użytkownika</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Dodawaj, przeglądaj i usuwaj wpisy z wewnętrznego słownika użytkownika</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Wewnętrzny Słownik Użytkownika</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Systemowy Słownik Użytkownika</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Ten słownik użytkownika nie zawiera żadnych słów.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Częstotliwość: {freq}</string>

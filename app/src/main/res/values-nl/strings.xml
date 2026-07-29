@@ -185,7 +185,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Gebruik de knop naast het code-invoerveld om de code van een sleutel te vinden. Eenmaal geactiveerd, zal het de volgende toetsaanslag opnemen en de code in het invoerveld invoegen.</string>
     <string name="settings__theme_editor__code_recording_started">Opname van sleutelcode gestart</string>
     <string name="settings__theme_editor__code_recording_stopped">Opname van sleutelcode gestopt</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} moet het standaardtoetsenbord zijn om een ​​toetscode op te nemen</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} moet het standaardtoetsenbord zijn om een ​​toetscode op te nemen</string>
     <string name="settings__theme_editor__code_recording_placeholder">Opnemen…</string>
     <string name="settings__theme_editor__add_property">Eigenschap toevoegen</string>
     <string name="settings__theme_editor__edit_property">Eigenschap bewerken</string>
@@ -392,9 +392,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Voeg toe, bekijk of verwijder woorden uit het persoonlijke woordenboek van het systeem</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Schakel intern persoonlijke woordenboek in</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Stel woorden voor uit het interne persoonlijke woordenboek</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Beheer interne persoonlijke woordenboek</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Voeg toe, bekijk of verwijder woorden uit het interne persoonlijke woordenboek</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Intern persoonlijk woordenboek</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Beheer interne persoonlijke woordenboek</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Voeg toe, bekijk of verwijder woorden uit het interne persoonlijke woordenboek</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Intern persoonlijk woordenboek</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Persoonlijk woordenboek van het systeem</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Dit gebruikerswoordenboek bevat geen woorden.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frequentie: {freq}</string>

@@ -195,7 +195,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Hogy megtalálja a megfelelő kódot, használja a gombot a kitöltendő mező mellett. Aktiválás esetében, felvételre kerül a legelső megnyomott billentyű, és kitöltésre kerül a mező.</string>
     <string name="settings__theme_editor__code_recording_started">Billentyűkód felvétele megkezdődött</string>
     <string name="settings__theme_editor__code_recording_stopped">Billentyűkód felvétele befejeződött</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name}-nak az alapértelmezett billentyűzetnek kell lennie a billentyűkód rögzítéséhez</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name}-nak az alapértelmezett billentyűzetnek kell lennie a billentyűkód rögzítéséhez</string>
     <string name="settings__theme_editor__code_recording_placeholder">Rögzítés…</string>
     <string name="settings__theme_editor__add_property">Tulajdonság hozzáadása</string>
     <string name="settings__theme_editor__edit_property">Tulajdonság szerkesztése</string>
@@ -469,9 +469,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Elemek hozzáadása, megtekintése és eltávolítása a rendszer felhasználói szótárából</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Belső felhasználói szótár engedélyezése</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">A belső felhasználói szótárban tárolt szavak ajánlása</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Belső felhasználói szótár kezelése</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Elemek hozzáadása, megtekintése és eltávolítása a belső felhasználói szótárból</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Belső felhasználói szótár</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Belső felhasználói szótár kezelése</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Elemek hozzáadása, megtekintése és eltávolítása a belső felhasználói szótárból</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Belső felhasználói szótár</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Rendszer felhasználói szótára</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Ez a felhasználói szótár egyetlen szót sem tartalmaz.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Gyakoriság: {freq}</string>

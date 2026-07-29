@@ -99,7 +99,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Kako biste našli kod pločice, koristite gumb pored terminala za unos koda. Jednom aktiviran, zabilježit će sljedeću pritisnutu pločicu i unijet će kod u terminal.</string>
     <string name="settings__theme_editor__code_recording_started">Bilježenje koda pločice započeto</string>
     <string name="settings__theme_editor__code_recording_stopped">Bilježenje koda pločice zaustavljeno</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} mora biti zadana tipkovnica kako bi bilježila kod pločice</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} mora biti zadana tipkovnica kako bi bilježila kod pločice</string>
     <string name="settings__theme_editor__code_recording_placeholder">Bilježim…</string>
     <string name="settings__theme_editor__add_property">Dodaj svojstvo</string>
     <string name="settings__theme_editor__edit_property">Uredi svojstvo</string>

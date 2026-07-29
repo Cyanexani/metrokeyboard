@@ -183,7 +183,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Per trovare il codice di un tasto, usare il pulsante accanto al campo di immissione del codice. Una volta attivato, registrerà la successiva pressione del tasto e inserirà il codice nel campo di input.</string>
     <string name="settings__theme_editor__code_recording_started">Registrazione del codice tasto iniziata</string>
     <string name="settings__theme_editor__code_recording_stopped">Registrazione del codice tasto terminata</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} deve essere la tastiera predefinita per registrare un codice tasto</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} deve essere la tastiera predefinita per registrare un codice tasto</string>
     <string name="settings__theme_editor__code_recording_placeholder">Registrazione in corso…</string>
     <string name="settings__theme_editor__add_property">Aggiungi proprietà</string>
     <string name="settings__theme_editor__edit_property">Modifica proprietà</string>
@@ -374,9 +374,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Aggiungi, visualizza e rimuovi le voci del dizionario utente di sistema</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Abilita il dizionario utente interno</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Suggerisci le parole contenute nel dizionario utente interno</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Gestisci il dizionario utente interno</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Aggiungi, visualizza e rimuovi le voci del dizionario utente interno</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Dizionario utente interno</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Gestisci il dizionario utente interno</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Aggiungi, visualizza e rimuovi le voci del dizionario utente interno</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Dizionario utente interno</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Dizionario utente di sistema</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Questo dizionario utente non contiene parole.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frequenza: {freq}</string>

@@ -91,7 +91,7 @@
     <string name="settings__theme_editor__edit_code">Koda mifteyê biguherîne</string>
     <string name="settings__theme_editor__code_already_exists">Ev koda mifteyan jixwe hatîye pênasekirin.</string>
     <string name="settings__theme_editor__code_placeholder">Kod</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} pêdivî ye ku klavyeya xwerû be ku kodek mifteyê tomar bike</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} pêdivî ye ku klavyeya xwerû be ku kodek mifteyê tomar bike</string>
     <string name="settings__theme_editor__code_recording_placeholder">Tomarkirin…</string>
     <string name="settings__theme_editor__add_property">Taybetmendiyê zêde bikin</string>
     <string name="settings__theme_editor__edit_property">Taybetmendiyê biguherîne</string>

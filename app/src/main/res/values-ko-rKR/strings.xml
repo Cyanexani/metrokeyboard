@@ -167,7 +167,7 @@
     <string name="settings__theme_editor__code_recording_help_text">키의 코드를 찾으려면 코드 입력 필드 옆의 버튼을 사용하세요. 버튼을 누르면 다음 키 입력을 추적하여 해당 코드가 필드에 입력됩니다.</string>
     <string name="settings__theme_editor__code_recording_started">키 코드 추적을 시작했습니다.</string>
     <string name="settings__theme_editor__code_recording_stopped">키 코드 추적을 중지했습니다.</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">키 코드를 추적하려면 {app_name} 앱을 기본 키보드로 지정해야 합니다.</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">키 코드를 추적하려면 {app_name} 앱을 기본 키보드로 지정해야 합니다.</string>
     <string name="settings__theme_editor__code_recording_placeholder">추적 중…</string>
     <string name="settings__theme_editor__add_property">속성 추가</string>
     <string name="settings__theme_editor__edit_property">속성 편집</string>
@@ -260,9 +260,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">시스템 사용자 사전 항목 확인, 추가 및 제거</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">앱 내장 사용자 사전 사용</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">앱 내장 사용자 사전에 저장된 단어 추천</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">앱 내장 사용자 사전 관리</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">앱 내장 사용자 사전 항목 확인, 추가 및 제거</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">앱 내장 사용자 사전</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">앱 내장 사용자 사전 관리</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">앱 내장 사용자 사전 항목 확인, 추가 및 제거</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">앱 내장 사용자 사전</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">시스템 사용자 사전</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">이 사용자 사전에는 저장된 단어가 없습니다.</string>
     <string name="settings__udm__open_system_manager_ui" comment="Label of the Open system manager UI menu option">시스템 관리자 UI 열기</string>

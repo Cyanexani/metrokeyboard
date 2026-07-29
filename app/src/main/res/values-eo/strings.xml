@@ -296,9 +296,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Aldoni, vidi kaj forigi enigaĵojn el la sistema uzula vortaro</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Ŝalti internan uzulan vortaron</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Sugesti vortojn konservitajn en la interna uzula vortaro</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Mastrumi internan uzulan vortaron</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Aldoni, vidi kaj forigi enigaĵojn el la interna uzula vortaro</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Interna uzula vortaro</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Mastrumi internan uzulan vortaron</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Aldoni, vidi kaj forigi enigaĵojn el la interna uzula vortaro</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Interna uzula vortaro</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Sistema uzula vortaro</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Tiu uzula vortaro enhavas neniun vorton.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Ofteco: {freq}</string>

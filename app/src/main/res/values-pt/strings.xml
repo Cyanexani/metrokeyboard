@@ -190,7 +190,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Para encontrar o código de uma tecla, utilize o botão junto ao campo de introdução de código. Uma vez ativado, registará a tecla seguinte premida e introduzirá o código no campo de entrada.</string>
     <string name="settings__theme_editor__code_recording_started">Gravação do código de tecla iniciada</string>
     <string name="settings__theme_editor__code_recording_stopped">Gravação do código de tecla interrompida</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} precisa de ser o teclado padrão para gravar um código de tecla</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} precisa de ser o teclado padrão para gravar um código de tecla</string>
     <string name="settings__theme_editor__code_recording_placeholder">A gravar…</string>
     <string name="settings__theme_editor__add_property">Adicionar propriedade</string>
     <string name="settings__theme_editor__edit_property">Editar propriedade</string>
@@ -459,9 +459,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Adicionar, ver e remover entradas ao dicionário do sistema</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Ativar dicionário do utilizador</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Sugerir palavras guardadas no dicionário do utilizador</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Gerir dicionários do utilizador</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Adicionar, ver e remover entradas ao dicionário do utilizador</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Dicionário do utilizador</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Gerir dicionários do utilizador</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Adicionar, ver e remover entradas ao dicionário do utilizador</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Dicionário do utilizador</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Dicionário do sistema</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Este dicionário do utilizador não contém palavras.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frequência: {freq}</string>

@@ -1,7 +1,7 @@
 {
-  "id": "dev.patrickgold.florisboard.beta",
-  "url": "https://github.com/florisboard/florisboard",
-  "author": "florisboard",
-  "name": "FlorisBoard Preview",
+  "id": "dev.patrickgold.metroboard.beta",
+  "url": "https://github.com/metroboard/metroboard",
+  "author": "metroboard",
+  "name": "MetroboardBoard Preview",
   "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"apkFilterRegEx\":\"preview\"}"
 }

@@ -194,7 +194,7 @@
     <string name="settings__theme_editor__code_recording_help_text">要查找一个键的键码，请使用代码输入框旁边的按钮。一旦激活，它将记录下一次按键并将键码插入输入框。</string>
     <string name="settings__theme_editor__code_recording_started">键码记录已开始</string>
     <string name="settings__theme_editor__code_recording_stopped">键码记录已停止</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} 需要设置为默认键盘才能记录键码</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} 需要设置为默认键盘才能记录键码</string>
     <string name="settings__theme_editor__code_recording_placeholder">正在记录…</string>
     <string name="settings__theme_editor__add_property">添加属性</string>
     <string name="settings__theme_editor__edit_property">编辑属性</string>
@@ -469,9 +469,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">添加、查看和删除系统用户词典的条目</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">启用内部用户词典</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">建议中使用存储在内部用户词典中的词条</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">管理内部用户词典</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">添加、查看和删除内部用户词典的条目</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">内部用户词典</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">管理内部用户词典</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">添加、查看和删除内部用户词典的条目</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">内部用户词典</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">系统用户词典</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">此用户词典不包含任何词条。</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">频率：{freq}</string>

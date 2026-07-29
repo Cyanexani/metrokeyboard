@@ -188,7 +188,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Lai atrastu taustiņa kodu, jāizmanto poga blakus koda ievades laukam. Tiklīdz tā ir piespiesta, tā tiks ierakstīts nākamais taustiņa piesitiens, un kods tiks ievietots ievades laukā.</string>
     <string name="settings__theme_editor__code_recording_started">Taustiņa koda ierakstīšana ir sākusies</string>
     <string name="settings__theme_editor__code_recording_stopped">Taustiņa koda ierakstīšana ir apturēta</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} ir jābūt noklusējuma tastatūrai, lai varētu ierakstīt taustiņa kodu</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} ir jābūt noklusējuma tastatūrai, lai varētu ierakstīt taustiņa kodu</string>
     <string name="settings__theme_editor__code_recording_placeholder">Ieraksta…</string>
     <string name="settings__theme_editor__add_property">Pievienot īpašību</string>
     <string name="settings__theme_editor__edit_property">Labot īpašību</string>
@@ -422,9 +422,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Pievienot, skatīt un noņemt ierakstus sistēmas lietotāja vārdnīcā</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Iespējot iekšējo lietotāja vārdnīcu</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Ieteikt vārdus, kas tiek glabāti iekšējā lietotāja vārdnīcā</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Pārvaldīt iekšējo lietotāja vārdnīcu</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Pievienot, skatīt un noņemt ierakstus iekšējā lietotāja vārdnīcā</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Iekšējā lietotāja vārdnīca</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Pārvaldīt iekšējo lietotāja vārdnīcu</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Pievienot, skatīt un noņemt ierakstus iekšējā lietotāja vārdnīcā</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Iekšējā lietotāja vārdnīca</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Sistēmas lietotāja vārdnīca</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Šī lietotāja vārdnīca nesatur nevienu vārdu.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Biežums: {freq}</string>

@@ -190,7 +190,7 @@ Klik di sini untuk menyelesaikan masalah ini.</string>
     <string name="settings__theme_editor__code_recording_help_text">Untuk menemukan kode dari sebuah tombol, gunakan tombol di samping kolom input kode. Ketika diaktifkan, itu akan merekam tekanan tombol berikut dan akan mengisi kodenya ke kolom input.</string>
     <string name="settings__theme_editor__code_recording_started">Rekaman kode tombol dimulai</string>
     <string name="settings__theme_editor__code_recording_stopped">Rekaman kode tombol dihentikan</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} harus ditetapkan sebagai papan ketik bawaan untuk merekam kode tombol</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} harus ditetapkan sebagai papan ketik bawaan untuk merekam kode tombol</string>
     <string name="settings__theme_editor__code_recording_placeholder">Merekam…</string>
     <string name="settings__theme_editor__add_property">Tambahkan properti</string>
     <string name="settings__theme_editor__edit_property">Edit properti</string>
@@ -455,9 +455,9 @@ Klik di sini untuk menyelesaikan masalah ini.</string>
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Tambah, lihat, dan hapus entri untuk kamus pengguna sistem</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Aktifkan kamus pengguna internal</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Sarankan kata-kata tersimpan di kamus pengguna internal</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Kelola kamus pengguna internal</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Tambah, lihat, dan hapus entri untuk kamus pengguna internal</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Kamus Pengguna Internal</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Kelola kamus pengguna internal</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Tambah, lihat, dan hapus entri untuk kamus pengguna internal</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Kamus Pengguna Internal</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Kamus Pengguna Sistem</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Kamus pengguna ini tidak berisi kata-kata apa pun.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frekuensi: {freq}</string>

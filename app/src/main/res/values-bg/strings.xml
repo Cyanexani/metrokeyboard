@@ -194,7 +194,7 @@
     <string name="settings__theme_editor__code_recording_help_text">За да намерите кода на даден клавиш използвайте бутона до полето. Веднъж натиснат в полето ще се запише кода на следващия натиснат клавиш.</string>
     <string name="settings__theme_editor__code_recording_started">Записът на кода на клавиш е започнат</string>
     <string name="settings__theme_editor__code_recording_stopped">Записът на кода на клавиш е спрян</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">За да запише кода на клавиша, {app_name} трябва да е подразбираната клавиатура</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">За да запише кода на клавиша, {app_name} трябва да е подразбираната клавиатура</string>
     <string name="settings__theme_editor__code_recording_placeholder">Записване…</string>
     <string name="settings__theme_editor__add_property">Добавяне на свойство</string>
     <string name="settings__theme_editor__edit_property">Променяне на свойство</string>
@@ -470,9 +470,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Преглед, добавяне и премахване на думи от системния потребителски речник</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Потребителски речник към приложението</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Предлагат се думи от потребителския речник към приложението</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Управление на потреб. речник към приложението</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Преглед, добавяне и премахване на думи от потребителския речник към приложението</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Потребителски речник към приложението</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Управление на потреб. речник към приложението</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Преглед, добавяне и премахване на думи от потребителския речник към приложението</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Потребителски речник към приложението</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Системен потребителски речник</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Потребителският речник не съдържа никакви думи.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Честота: {freq}</string>

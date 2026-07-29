@@ -128,7 +128,7 @@
     <string name="settings__theme_editor__code_recording_help_text">برای یافتن کد یک کلید، از دکمه کنار فیلد ورودی کد استفاده کنید. وقتی که فعال شود، کلید فعال شده بعدی را ضبط کرده و کد آن را وارد فیلد ورودی می کند.</string>
     <string name="settings__theme_editor__code_recording_started">ضبط کد کلید شروع شد</string>
     <string name="settings__theme_editor__code_recording_stopped">ضبط کد کلید پایان یافت</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} باید به عنوان کیبورد پیشفرض انتخاب شود تا کد کلید را بتوان ضبط کرد</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} باید به عنوان کیبورد پیشفرض انتخاب شود تا کد کلید را بتوان ضبط کرد</string>
     <string name="settings__theme_editor__code_recording_placeholder">در حال ضبط...</string>
     <string name="settings__theme_editor__add_property">افزودن ویژگی</string>
     <string name="settings__theme_editor__edit_property">ویرایش ویژگی</string>
@@ -182,9 +182,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">افزودن، مشاهده و حذف کردن لغات برای سیستم لغتنامه کاربر</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">فعالسازی لغتنامه کاربر داخلی</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">پیشنهاد دادن کلمات ذخیره شده در لغتنامه داخلی کاربر</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">مدیریت لغتنامه داخلی کاربر</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">افزودن، مشاهده و حذف کردن لغات از لغتنامه داخلی کاربر</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">لغتنامه داخلی کاربر</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">مدیریت لغتنامه داخلی کاربر</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">افزودن، مشاهده و حذف کردن لغات از لغتنامه داخلی کاربر</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">لغتنامه داخلی کاربر</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">لغتنامه سیستم کاربر</string>
     <string name="settings__udm__all_languages" comment="Label of the For all languages entry in the language list">برای همه زبان ها</string>
     <string name="settings__udm__open_system_manager_ui" comment="Label of the Open system manager UI menu option">بازکردن مدیریت سیستم رابط کاربری</string>

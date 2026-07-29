@@ -148,7 +148,7 @@
     <string name="settings__theme_editor__code_recording_help_text">For å finne koden til en bestemt tast, bruk knappen ved siden av inndatafeltet. Når den er aktivert, registrerer den neste tastetrykk og setter inn koden i feltet.</string>
     <string name="settings__theme_editor__code_recording_started">Innspilling av tastekode startet</string>
     <string name="settings__theme_editor__code_recording_stopped">Innspilling av tastekode stoppet</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} må være standardtastatur for å spille inn en tastekode</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} må være standardtastatur for å spille inn en tastekode</string>
     <string name="settings__theme_editor__code_recording_placeholder">Spiller inn…</string>
     <string name="settings__theme_editor__add_property">Legg til egenskap</string>
     <string name="settings__theme_editor__edit_property">Rediger egenskap</string>
@@ -242,9 +242,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Legg til, vis og fjern oppføringer i system-brukerordlisten</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Aktiver intern brukerordliste</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Anbefal ord lagret i den interne brukerordlisten</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Rediger intern brukerordliste</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Legg til, vis og fjern oppføringer i den interne brukerordlisten</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Intern Brukerordliste</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Rediger intern brukerordliste</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Legg til, vis og fjern oppføringer i den interne brukerordlisten</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Intern Brukerordliste</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">System Brukerordliste</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Frekvens: {freq}</string>
     <string name="settings__udm__word_summary_freq_shortcut" comment="Summary label for a word entry. The first placeholder inserts the frequency for the word it summarizes, the second placeholder the shortcut defined.">Frekvens: {freq} | Snarvei: {shortcut}</string>

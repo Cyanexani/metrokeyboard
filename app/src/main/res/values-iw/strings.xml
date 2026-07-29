@@ -227,7 +227,7 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">הוסף, הצג והסר ערכים עבור מילון המשתמשים במערכת</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">אפשר מילון משתמשים פנימי</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">הצע מילים המאוחסנות במילון המשתמש הפנימי</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">מילון משתמשים פנימי</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">מילון משתמשים פנימי</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">מילון משתמשי מערכת</string>
     <string name="settings__udm__dictionary_import_success" comment="Message for dictionary import success">מילון המשתמש יובא בהצלחה!</string>
     <string name="settings__udm__dictionary_export_success" comment="Message for dictionary export success">מילון משתמשים מיוצא בהצלחה!</string>

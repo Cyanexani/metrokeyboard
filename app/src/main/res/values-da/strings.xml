@@ -186,7 +186,7 @@
     <string name="settings__theme_editor__code_recording_help_text">For at finde koden på en tast, benyt knappen ved siden af kodeinputfeltet. Når aktiveret, registreres det næste tastetryk, og koden indsættes i inputfeltet.</string>
     <string name="settings__theme_editor__code_recording_started">Tastekoderegistrering startet</string>
     <string name="settings__theme_editor__code_recording_stopped">Tastekoderegistrering stoppet</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} skal være standardtastaturet for at kunne registrere en tastekode</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} skal være standardtastaturet for at kunne registrere en tastekode</string>
     <string name="settings__theme_editor__code_recording_placeholder">Registrerer…</string>
     <string name="settings__theme_editor__add_property">Tilføj egenskab</string>
     <string name="settings__theme_editor__edit_property">Redigér egenskab</string>

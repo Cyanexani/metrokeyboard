@@ -180,7 +180,7 @@
     <string name="settings__theme_editor__code_recording_help_text">للعثور على رمز المفتاح ، استخدم الزر بجانب حقل إدخال الرمز. بمجرد تنشيطه ، سيتم تسجيل الضغط على المفتاح التالي وسيقوم بإدخال الرمز في حقل الإدخال.</string>
     <string name="settings__theme_editor__code_recording_started">بدأ تسجيل رمز المفتاح</string>
     <string name="settings__theme_editor__code_recording_stopped">توقف تسجيل رمز المفتاح</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">يجب أن يكون {app_name} هو لوحة المفاتيح الافتراضية لتسجيل رمز المفتاح</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">يجب أن يكون {app_name} هو لوحة المفاتيح الافتراضية لتسجيل رمز المفتاح</string>
     <string name="settings__theme_editor__code_recording_placeholder">جارٍ التسجيل…</string>
     <string name="settings__theme_editor__add_property">إضافة خاصية</string>
     <string name="settings__theme_editor__edit_property">تحرير خاصية</string>
@@ -355,9 +355,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">إضافة وعرض وإزالة الإدخالات لقاموس مستخدم النظام</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">تفعيل القاموس الداخلي للمستخدم</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">اقترح كلمات مخزنة في القاموس الداخلي للمستخدم</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">إدارة قاموس الداخلي للمستخدم</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">إضافة وعرض وإزالة الإدخالات لقاموس المستخدم الداخلي</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">القاموس الداخلي للمستخدم</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">إدارة قاموس الداخلي للمستخدم</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">إضافة وعرض وإزالة الإدخالات لقاموس المستخدم الداخلي</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">القاموس الداخلي للمستخدم</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">قاموس مستخدم النظام</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">ملف القاموس هذا لا يحتوي على اي كلمات.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">التكرار: {freq}</string>

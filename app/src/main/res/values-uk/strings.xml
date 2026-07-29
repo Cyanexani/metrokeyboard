@@ -179,7 +179,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Щоб знайти код клавіші, скористайтеся кнопкою поруч із полем введення коду. Після активації він запише наступне натискання клавіші та вставить код у поле введення.</string>
     <string name="settings__theme_editor__code_recording_started">Розпочато запис коду клавіші</string>
     <string name="settings__theme_editor__code_recording_stopped">Запис коду клавіші зупинено</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} має бути клавіатурою за умовчанням, щоб записати код клавіші</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} має бути клавіатурою за умовчанням, щоб записати код клавіші</string>
     <string name="settings__theme_editor__code_recording_placeholder">Запис…</string>
     <string name="settings__theme_editor__add_property">Додати властивість</string>
     <string name="settings__theme_editor__edit_property">Змінити властивість</string>
@@ -354,9 +354,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Додати, переглянути, та прибрати записи з системного користувацького словника</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Увімкнути внутрішній користувацький словник</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Запропонувати слова, що зберігаються у внутрішньому словнику користувача</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Керування внутрішнім словником користувача</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Додавання, перегляд і видалення записів для внутрішнього словника користувача</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Внутрішній словник користувача</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Керування внутрішнім словником користувача</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Додавання, перегляд і видалення записів для внутрішнього словника користувача</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Внутрішній словник користувача</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Системний словник користувача</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Цей словник користувача не містить жодного слова.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Частота: {freq}</string>

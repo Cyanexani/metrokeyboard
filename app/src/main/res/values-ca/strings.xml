@@ -188,7 +188,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Per trobar el codi d\'una tecla usa el botó que hi ha al costat del camp d\'entrada de codis. Quan l\'habilites enregistrarà el següent toc de tecla i inserirà el codi al camp d\'entrada.</string>
     <string name="settings__theme_editor__code_recording_started">S\'ha iniciat l\'enregistrament del codi de tecla</string>
     <string name="settings__theme_editor__code_recording_stopped">S\'ha aturat l\'enregistrament del codi de tecla</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} ha de ser el teclat per defecte per enregistrar un codi de tecla</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} ha de ser el teclat per defecte per enregistrar un codi de tecla</string>
     <string name="settings__theme_editor__code_recording_placeholder">Enregistrant…</string>
     <string name="settings__theme_editor__add_property">Afegir propietat</string>
     <string name="settings__theme_editor__edit_property">Editar propietat</string>
@@ -373,9 +373,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Afegeix, visualitza i suprimeix entrades per al diccionari d\'usuari del sistema</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Habilita el diccionari intern d\'usuari</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Suggereix les paraules emmagatzemades al diccionari intern d\'usuari</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Gestiona el diccionari intern d\'usuari</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Afegeix, visualitza i suprimeix entrades per al diccionari intern d\'usuari</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Diccionari intern d\'usuari</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Gestiona el diccionari intern d\'usuari</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Afegeix, visualitza i suprimeix entrades per al diccionari intern d\'usuari</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Diccionari intern d\'usuari</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Diccionari d\'usuari del sistema</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Aquest diccionari d\'usuari no conté cap paraula.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Freqüència: {freq}</string>

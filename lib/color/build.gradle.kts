@@ -20,7 +20,7 @@ kotlin {
 }
 
 configure<LibraryExtension> {
-    namespace = "org.florisboard.lib.color"
+    namespace = "org.metroboard.lib.color"
     compileSdk = projectCompileSdk.toInt()
 
     defaultConfig {

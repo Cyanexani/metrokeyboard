@@ -168,7 +168,7 @@
     <string name="settings__theme_editor__code_recording_help_text">بۆ دۆزینەوەی کۆدی کلیلێک، دوگمەکە بەکاربهێنە جگە لە خانەی نوسینی کۆدەکە، کاتێک چالاک کرا، کلیلەکانی دواتر تۆمار دەکات و کۆدەکە دادەنێت بۆ خانەکە.</string>
     <string name="settings__theme_editor__code_recording_started">دۆزینەوەی کۆد دەستیپێکرد</string>
     <string name="settings__theme_editor__code_recording_stopped">دۆزینەوەی کۆد وەستێنرا</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} پێویستە کرابێتە تەختەکلیلی بنەڕەتی بۆ ئەوەی بتوانی کۆدەکە بدۆیتەوە</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} پێویستە کرابێتە تەختەکلیلی بنەڕەتی بۆ ئەوەی بتوانی کۆدەکە بدۆیتەوە</string>
     <string name="settings__theme_editor__code_recording_placeholder">دۆزینەوە…</string>
     <string name="settings__theme_editor__add_property">زیادکردنی بەش</string>
     <string name="settings__theme_editor__edit_property">دەستکاریکردنی بەش</string>
@@ -332,9 +332,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">زیادکردن، بینین، یان سڕینەوەی ووشەکانی ناو فەرهەنگی تایبەتی</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">فەرهەنگی ناوخۆیی بەرنامەکە</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">پێشنیارکردنی ئەو ووشانەی لەفەرهەنگی ناوخۆیی بەرنامەکەدا پاشەکەوتکراون</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">ڕێکخستنی فەرهەنگی ناوخۆیی</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">زیادکردن، بینین، یان سڕینەوەی ووشەکانی ناو فەرهەنگی ناوخۆیی</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">فەرهەنگی تایبەت</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">ڕێکخستنی فەرهەنگی ناوخۆیی</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">زیادکردن، بینین، یان سڕینەوەی ووشەکانی ناو فەرهەنگی ناوخۆیی</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">فەرهەنگی تایبەت</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">فەرهەنگی سیستەم</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">فەرهەنگی تایبەتی بەکارهێنەر هیچ ووشەیەکی تێدا نیە.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">ژمارە: {freq}</string>
@@ -447,7 +447,7 @@
     <string name="backup_and_restore__restore__success">داتاکان بەسەرکەوتوویی گەڕێنرانەوە!</string>
     <string name="backup_and_restore__restore__failure">گێڕانەوەی داتاکان سەرکەوتو نەبوو: {error_message}</string>
     <!-- Crash Dialog strings -->
-    <string name="crash_dialog__title" comment="Title of crash dialog">FlorisBorad ڕاپۆرتی هەڵەی</string>
+    <string name="crash_dialog__title" comment="Title of crash dialog">MetroboardBorad ڕاپۆرتی هەڵەی</string>
     <string name="crash_dialog__description" comment="Description of crash dialog">بەداخەوە، بەهۆی هەڵەیەکی لەناکاو تەختەکلیلی MetroBoard لەکارکەوت.</string>
     <string name="crash_dialog__report_instructions" comment="Issue tracker report instructions for the crash dialog. The %s placeholder is the name of the crash report template and always in English/LTR.">بەهۆی هەڵەیەکی لەناکاو تەختەکلیل  لەکارکەوت...\nبەکارهێنەری بەرێز لەکاتی بوونی کێشە یان وەستانی لەناکاوی بەرنامەکە تکایە ئەم بەشە فەرامۆش مەکەو هاوکاربە لە چارەسەرکردنیدا\n
 پەنجەبنێ بە دوگمەی <b>لەبەرگرتنەوەی ڕاپۆرتی هەڵە</b>، دواتر پەنجەبنێ بە دوگمەی <b>ناردنی ڕاپۆرتی هەڵە</b> بۆ دۆزینەوەی جۆری کێشەکە و چارەسەرکردن و باشترکردنی بەرنامەکەمان لە وەشانەکانی دواتردا</string>
@@ -456,7 +456,7 @@
     <string name="crash_dialog__copy_to_clipboard_failure" comment="Label of Copy to clipboard failure message in crash dialog">ناتوانرێ کۆپی بکرێت چونکە مۆبایلەکەت پشتگیری ناکات</string>
     <string name="crash_dialog__open_issue_tracker" comment="Label of Open issue tracker button in crash dialog">ڕاگەیاندنی ڕاپۆرتی هەڵە لە (github.com)</string>
     <string name="crash_dialog__close" comment="Label of Close button in crash dialog">داخستن</string>
-    <string name="crash_notification_channel__title" comment="Title of crash notification channel">FlorisBorad ڕاپۆرتی هەڵەی</string>
+    <string name="crash_notification_channel__title" comment="Title of crash notification channel">MetroboardBorad ڕاپۆرتی هەڵەی</string>
     <string name="crash_once_notification__title" comment="Title of the notification for a single crash">تەختەکلیلی MetroBoard لە کارکەوت…</string>
     <string name="crash_once_notification__body" comment="Body of the notification for a single crash">بینینی زانیاری ڕاپۆرتی هەڵە</string>
     <string name="crash_multiple_notification__title" comment="Title of the notification for consecutive crashes">تەختەکلیلی MetroBoard لەوانەیە زوو زوو لەکارکردن بوەستێت…</string>

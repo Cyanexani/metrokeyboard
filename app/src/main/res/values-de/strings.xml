@@ -183,7 +183,7 @@
     <string name="settings__theme_editor__code_recording_help_text">Um den Code einer Taste zu ermitteln, verwenden Sie die Schaltfläche neben dem Code-Eingabefeld. Sobald sie aktiviert ist, zeichnet sie den nächsten Tastendruck auf und fügt den Code in das Eingabefeld ein.</string>
     <string name="settings__theme_editor__code_recording_started">Key code aufnahme gestartet</string>
     <string name="settings__theme_editor__code_recording_stopped">Key code aufnahme beendet</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} muss die Standard-Tastatur-App sein, um eine Taste aufzunehmen</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} muss die Standard-Tastatur-App sein, um eine Taste aufzunehmen</string>
     <string name="settings__theme_editor__code_recording_placeholder">Aufnahme läuft …</string>
     <string name="settings__theme_editor__add_property">Eigenschaft hinzufügen</string>
     <string name="settings__theme_editor__edit_property">Eigenschaft bearbeiten</string>
@@ -380,9 +380,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Hinzufügen, ansehen und bearbeiten von Einträgen für das System-Benutzerwörterbuch</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Internes Wörterbuch aktivieren</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Wörter vorschlagen, die im internen Benutzerwörterbuch gespeichert sind</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Internes Benutzerwörterbuch verwalten</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Hinzufügen, ansehen und bearbeiten von Einträgen für das interne Benutzerwörterbuch</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Internes Benutzerwörterbuch</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Internes Benutzerwörterbuch verwalten</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Hinzufügen, ansehen und bearbeiten von Einträgen für das interne Benutzerwörterbuch</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Internes Benutzerwörterbuch</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">System-Benutzerwörterbuch</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">Dieses Wörterbuch enthält keine Wörter.</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">Häufigkeit: {freq}</string>

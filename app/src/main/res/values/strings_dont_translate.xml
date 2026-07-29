@@ -1,13 +1,13 @@
 <resources>
-    <item name="floris_app_name" translatable="false" type="string">@string/app_name</item>
+    <item name="metroboard_app_name" translatable="false" type="string">@string/app_name</item>
 
-    <string name="florisboard__repo_url" translatable="false">https://github.com/Cyanexani/metrokeyboard</string>
-    <string name="florisboard__issue_tracker_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/issues</string>
-    <string name="florisboard__privacy_policy_url" translatable="false">https://florisboard.org/legal/privacy/</string>
-    <string name="florisboard__changelog_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/releases/v{version}</string>
-    <string name="florisboard__commit_by_hash_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/commit/{hash}</string>
-    <string name="florisboard__internal_key_codes_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/blob/main/app/src/main/kotlin/dev/patrickgold/florisboard/ime/text/key/KeyCode.kt</string>
-    <string name="florisboard__character_key_codes_url" translatable="false">https://unicode-table.com/en</string>
+    <string name="metroboard__repo_url" translatable="false">https://github.com/Cyanexani/metrokeyboard</string>
+    <string name="metroboard__issue_tracker_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/issues</string>
+    <string name="metroboard__privacy_policy_url" translatable="false">https://metroboard.org/legal/privacy/</string>
+    <string name="metroboard__changelog_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/releases/v{version}</string>
+    <string name="metroboard__commit_by_hash_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/commit/{hash}</string>
+    <string name="metroboard__internal_key_codes_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/blob/main/app/src/main/kotlin/dev/patrickgold/metroboard/ime/text/key/KeyCode.kt</string>
+    <string name="metroboard__character_key_codes_url" translatable="false">https://unicode-table.com/en</string>
 
     <string name="general__system_string_placeholder" translatable="false">%s</string>
     <string name="general__empty_string" translatable="false"/>

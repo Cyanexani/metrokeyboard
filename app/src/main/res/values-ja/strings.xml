@@ -187,7 +187,7 @@
     <string name="settings__theme_editor__code_recording_help_text">キーのコードを見つけるには、コード入力フィールドの横にあるボタンを使用します。有効化すると、次に押したキーが記録され、コードが入力フィールドに挿入されます。</string>
     <string name="settings__theme_editor__code_recording_started">キーコードの記録を開始しました</string>
     <string name="settings__theme_editor__code_recording_stopped">キーコードの記録を停止しました</string>
-    <string name="settings__theme_editor__code_recording_requires_default_ime_floris">{app_name} はキーコードを記録するためにデフォルトのキーボードである必要があります</string>
+    <string name="settings__theme_editor__code_recording_requires_default_ime_metroboard">{app_name} はキーコードを記録するためにデフォルトのキーボードである必要があります</string>
     <string name="settings__theme_editor__code_recording_placeholder">記録中…</string>
     <string name="settings__theme_editor__add_property">プロパティを追加</string>
     <string name="settings__theme_editor__edit_property">プロパティを編集</string>
@@ -441,9 +441,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">システムユーザー辞書のエントリを追加、表示、削除します</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">内部ユーザー辞書を有効にする</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">内部ユーザー辞書に保存されている単語を候補として表示します</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">内部ユーザー辞書を管理</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">内部ユーザー辞書のエントリを追加、表示、削除します</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">内部ユーザー辞書</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">内部ユーザー辞書を管理</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">内部ユーザー辞書のエントリを追加、表示、削除します</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">内部ユーザー辞書</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">システムユーザー辞書</string>
     <string name="settings__udm__no_words_in_dictionary" comment="String to show if no words are present in the dictionary">このユーザー辞書に単語はありません。</string>
     <string name="settings__udm__word_summary_freq" comment="Summary label for a word entry. The decimal placeholder inserts the frequency for the word it summarizes.">頻度：{freq}</string>

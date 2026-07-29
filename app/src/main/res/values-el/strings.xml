@@ -150,9 +150,9 @@
     <string name="pref__dictionary__manage_system_user_dictionary__summary" comment="Preference summary">Προσθήκη, προβολή, και αφαίρεση εισαγωγών για το λεξικό χρήστη στο σύστημα</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__label" comment="Preference title">Ενεργοποίηση εσωτερικού λεξικού χρήστη</string>
     <string name="pref__dictionary__enable_internal_user_dictionary__summary" comment="Preference summary">Προτάσεις λέξεων αποθηκευμένων στο εσωτερικό λεξικό χρήστη</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__label" comment="Preference title">Διαχείριση εσωτερικού λεξικού χρήστη</string>
-    <string name="pref__dictionary__manage_floris_user_dictionary__summary" comment="Preference summary">Προσθήκη, προβολή, και αφαίρεση εισαγωγών για το εσωτερικό λεξικό χρήστη</string>
-    <string name="settings__udm__title_floris" comment="Title of the User Dictionary Manager activity for internal">Εσωτερικό Λεξικό Χρήστη</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__label" comment="Preference title">Διαχείριση εσωτερικού λεξικού χρήστη</string>
+    <string name="pref__dictionary__manage_metroboard_user_dictionary__summary" comment="Preference summary">Προσθήκη, προβολή, και αφαίρεση εισαγωγών για το εσωτερικό λεξικό χρήστη</string>
+    <string name="settings__udm__title_metroboard" comment="Title of the User Dictionary Manager activity for internal">Εσωτερικό Λεξικό Χρήστη</string>
     <string name="settings__udm__title_system" comment="Title of the User Dictionary Manager activity for system">Λεξικό Χρήστη στο Σύστημα</string>
     <string name="settings__udm__all_languages" comment="Label of the For all languages entry in the language list">Για όλες τις γλώσσες</string>
     <string name="settings__udm__open_system_manager_ui" comment="Label of the Open system manager UI menu option">Άνοιγμα περιβάλλοντος διαχειριστή συστήματος</string>
