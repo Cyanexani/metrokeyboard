@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022-2025 The MetroboardBoard Contributors
+ * Copyright (C) 2022-2025 The Metroboard Contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import java.nio.charset.Charset
 
 /**
  * Public typealias for the Android AssetManager class, which provides a basic API to read files which are statically
- * shipped in the APK assets. The typealias is used to allow both the MetroboardBoard and Android asset managers to coexist
+ * shipped in the APK assets. The typealias is used to allow both the Metroboard and Android asset managers to coexist
  * without name clashes.
  */
 typealias AndroidAssetManager = android.content.res.AssetManager
