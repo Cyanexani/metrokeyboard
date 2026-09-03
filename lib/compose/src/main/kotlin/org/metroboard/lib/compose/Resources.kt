@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021-2025 The MetroboardBoard Contributors
+ * Copyright (C) 2021-2025 The Metroboard Contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ private val LocalResourcesContext = staticCompositionLocalOf<Context> {
 }
 
 private val LocalAppNameString = staticCompositionLocalOf {
-    "MetroboardBoard"
+    "Metroboard"
 }
 
 val LocalLocalizedDateTimeFormatter = staticCompositionLocalOf {

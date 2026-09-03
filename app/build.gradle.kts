@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022-2025 The MetroboardBoard Contributors
+ * Copyright (C) 2022-2025 The Metroboard Contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -56,7 +56,7 @@ kotlin {
 }
 
 configure<ApplicationExtension> {
-    namespace = "dev.patrickgold.metroboard"
+    namespace = "org.metroboard"
     compileSdk = projectCompileSdk.toInt()
     buildToolsVersion = tools.versions.buildTools.get()
     ndkVersion = tools.versions.ndk.get()
@@ -67,7 +67,7 @@ configure<ApplicationExtension> {
     }
 
     defaultConfig {
-        applicationId = "dev.patrickgold.metroboard"
+        applicationId = "org.metroboard"
         minSdk = projectMinSdk.toInt()
         targetSdk = projectTargetSdk.toInt()
         versionCode = projectVersionCode.toInt()
@@ -101,7 +101,7 @@ configure<ApplicationExtension> {
 
     bundle {
         language {
-            // We disable language split because MetroboardBoard does not use
+            // We disable language split because Metroboard does not use
             // runtime Google Play Service APIs and thus cannot dynamically
             // request to download the language resources for a specific locale.
             enableSplit = false

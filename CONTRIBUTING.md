@@ -4,16 +4,16 @@ Thanks for considering contributing to MetroBoard!
 
 There are several ways to contribute to MetroBoard. This document provides some general guidelines for each type of contribution.
 
-The MetroBoard community is international, as such we require all contributions, including issues, pull requests, and participation in the Matrix chat to be in English, follow the [code of conduct](https://github.com/Cyanexani/metrokeyboard/blob/main/CODE_OF_CONDUCT.md), and adhere to our current [AI Policy](https://github.com/Cyanexani/metrokeyboard/blob/main/AI_POLICY.md). Contributions not adhering to these requirements will be dismissed. Thanks for making the MetroBoard community an inclusive and safe space for everyone!
+The MetroBoard community is international, as such we require all contributions, including issues, pull requests, and participation in [GitHub Discussions](https://github.com/Cyanexani/metrokeyboard/discussions) to be in English, follow the [code of conduct](https://github.com/Cyanexani/metrokeyboard/blob/main/CODE_OF_CONDUCT.md), and adhere to our current [AI Policy](https://github.com/Cyanexani/metrokeyboard/blob/main/AI_POLICY.md). Contributions not adhering to these requirements will be dismissed. Thanks for making the MetroBoard community an inclusive and safe space for everyone!
 
 ## Non-code contributions
 
 ### Translations
 
-To make MetroBoard accessible in as many languages as possible, the platform [Crowdin](https://crowdin.MetroBoard.org) is used to crowdsource and manage translations.  The list of languages in Crowdin covers a good range of languages, but feel free to email [MetroBoard@patrickgold.dev](mailto:MetroBoard@patrickgold.dev) to request a new language.
+To make MetroBoard accessible in as many languages as possible, translations are contributed directly via pull request. String resources live under `app/src/main/res/`: the source strings are in `values/strings.xml`, and each locale has its own `values-<locale>/strings.xml`. To add or update a translation, edit the matching `values-<locale>/strings.xml` (creating the directory if the locale is new) and open a PR.
 
-> [!IMPORTANT]
-> This is the only source of translations - **PRs that add/update translations are not accepted.**
+> [!NOTE]
+> Keep translation PRs limited to string resources so they are quick to review. Open an [issue](https://github.com/Cyanexani/metrokeyboard/issues/new/choose) or a [discussion](https://github.com/Cyanexani/metrokeyboard/discussions) first if you want to request a language rather than translate it yourself.
 
 ### Bug reporting
 
@@ -40,7 +40,7 @@ You are always welcome to contribute new features or work on existing issues, th
 > [!NOTE]
 > If you intend to implement a bigger feature please coordinate with us so we can prevent that there's a major difference in expected implementation.
 
-If you are overwhelmed by the code don't hesitate to ask for help in the [dev chat](https://matrix.to/#/#MetroBoard-dev:matrix.org) or the discussions tab! Some issues are also marked as good first issue, which are easy to do tasks.
+If you are overwhelmed by the code don't hesitate to ask for help in [GitHub Discussions](https://github.com/Cyanexani/metrokeyboard/discussions)! Some issues are also marked as good first issue, which are easy to do tasks.
 
 ### System requirements for development
 

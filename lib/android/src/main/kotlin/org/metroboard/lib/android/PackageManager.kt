@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021-2025 The MetroboardBoard Contributors
+ * Copyright (C) 2021-2025 The Metroboard Contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ import android.content.ComponentName
 import android.content.Context
 import android.content.pm.PackageManager
 
-private const val SETTINGS_ACTIVITY_NAME = "dev.patrickgold.metroboard.SettingsLauncherAlias"
+private const val SETTINGS_ACTIVITY_NAME = "org.metroboard.SettingsLauncherAlias"
 
 fun Context.hideAppIcon() {
     val pkg: PackageManager = this.packageManager

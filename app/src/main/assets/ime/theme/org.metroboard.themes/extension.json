@@ -3,7 +3,7 @@
   "meta": {
     "id": "org.metroboard.themes",
     "version": "0.2.0",
-    "title": "MetroboardBoard default themes",
+    "title": "Metroboard default themes",
     "description": "Default themes (both day and night) for the keyboard UI",
     "maintainers": [ "patrickgold <patrick@patrickgold.dev>", "lm41 <lm41@lm41.xyz>" ],
     "license": "apache-2.0"

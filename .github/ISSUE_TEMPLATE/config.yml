@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Matrix
-    url: https://matrix.to/#/#metroboard:matrix.org
-    about: General chat about MetroboardBoard and quick Q/A
+  - name: 💬 Discussions
+    url: https://github.com/Cyanexani/metrokeyboard/discussions
+    about: General chat about Metroboard and quick Q/A
   - name: ❓ Questions / Feedback
-    url: https://github.com/metroboard/metroboard/discussions/new/choose
+    url: https://github.com/Cyanexani/metrokeyboard/discussions/new/choose
     about: Post your questions or feedback in the discussions panel

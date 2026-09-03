@@ -1,68 +1,64 @@
 # Roadmap
 
-This feature roadmap intents to provide transparency to what is planned to be added to MetroBoard in the foreseeable future. Note that there are no ETAs for any version milestones down below, experience has shown these won't hold anyway.
+MetroBoard is a fork of [FlorisBoard](https://github.com/florisboard/florisboard), rebranded and adapted as the default keyboard for Metro OS. This document outlines what is planned for MetroBoard in the foreseeable future. There are no ETAs — experience has shown they don't hold anyway.
 
-Each major milestone has associated alpha/beta releases, so if you are interested in previewing features quicker, keep an eye out! Each major 0.x release has also patch releases after the initial major release, which will be published on both the stable and preview tracks.
+The current release line is **0.6** (`0.6.0-alpha`). MetroBoard inherits FlorisBoard's milestone structure; items already merged upstream and present in this tree are marked accordingly.
 
-## 0.5 (currently in development)
+## Relationship to FlorisBoard
 
-> [!NOTE]
-> The milestone 0.5 was split, thus the word suggestions now come with version 0.6. The old version 0.6 has been moved down and is now 0.7. The time it takes to implement word suggestions will not change, but we can now release the new theme editor earlier, which would otherwise lie dormant.
+MetroBoard periodically rebases its non-branding changes onto upstream FlorisBoard. Feature work that is not MetroBoard-specific (the keyboard core, NLP, theming engine) is expected to stay close to upstream so those rebases remain practical. MetroBoard-specific work is the Metro OS design language, branding, and Metro OS integration.
 
-- [x] Theme rework part II / Snygg v2
-  - [x] See https://github.com/Cyanexani/metrokeyboard/pull/2855
-  - [x] Spaces in URI bug (See https://github.com/Cyanexani/metrokeyboard/issues/2898)
-  - [x] Re-add time based theme switching (See https://github.com/Cyanexani/metrokeyboard/pull/2977)
-- [x] Add support for any remaining new features introduced with Android 13 / 14
-- [x] Raise minimum required Android version from Android 7 (SDK level 24) to Android 8 (SDK level 26)
+## 0.5 — done (inherited)
 
-## 0.6
+- [x] Theme rework II / Snygg v2 — the `lib/snygg` module and the in-app theme editor
+- [x] Android 13 / 14 feature support
+- [x] Minimum supported Android raised from 7 (SDK 24) to 8 (SDK 26)
+- [x] Time-based theme switching
 
-- [ ] Implement predictive text support / spell checking
-- [ ] Add new extension type: Language Pack
-    - Basically groups all locale-relevant data (predictive base model, emoji suggestion data, ...)
-      in a dynamically importable extension file
-- [ ] Proper physical keyboard support (See https://github.com/Cyanexani/metrokeyboard/issues/1972)
-- [ ] Rework cache manager (See https://github.com/Cyanexani/metrokeyboard/issues/2870)
+## 0.6 — in development
 
-## k3lp
+- [ ] Predictive text / spell checking
+  - NLP scaffolding is in the tree (`ime/nlp/` — `NlpManager`, latin/han providers, `SpellingResult`, `MetroboardSpellCheckerService`); the on-device suggestion core is the remaining work
+- [ ] Language Pack extension type — bundles the locale-relevant data (predictive base model, emoji suggestion data, …) into one dynamically importable extension file (`ime/nlp/LanguagePackExtension.kt` is the entry point)
+- [ ] Proper physical keyboard support
+- [ ] Cache manager rework (`lib/cache`)
 
-> [!NOTE]
-> The development of k3lp is not tied to a MetroBoard version and takes place on [codeberg.org](https://codeberg.org/k3lp/k3lp) simultaneously.
+## k3lp — parallel, version-independent
+
+k3lp development is not tied to a MetroBoard version and happens upstream at [codeberg.org/k3lp/k3lp](https://codeberg.org/k3lp/k3lp).
 
 - [ ] New keyboard layout engine + file syntax based on the upcoming Unicode Keyboard v3 standard
-- [ ] Add Tablet mode / Optimizations for landscape input based on new keyboard layout engine
+- [ ] Tablet mode / landscape input optimizations built on the new layout engine
 
 ## 0.7+
 
-> [!NOTE]
-> From 0.6 onwards we plan to have more stable 0.X releases but with at most one large feature per release, thus having a much quicker iteration of new features on the stable track, which is a benefit for everyone involved.
+From 0.7 onward the plan is smaller, more frequent stable releases with at most one large feature each.
 
-- [ ] Add floating keyboard mode
+- [ ] Floating keyboard mode — the `ime/window/` module (`ImeWindowMode`, `ImeWindowController`, resize/move handles) is the foundation; the UI and preference surface are the remaining work
 - [ ] New text processing logic
-- [ ] Complete rework of the Emoji panel
-  - [ ] Emoji search
-  - [ ] Fully scrollable emoji list (soft category borders)
-  - [ ] Side scrollable emoji list (swipe for next category)
-  - [ ] More granular theming options
-  - [ ] Layout customization (e.g. placement of category buttons)
-  - [ ] Maybe: consider upgrading to emoji2 for better unified system-wide emoji styles
-- [ ] Reimplementation of glide typing with the new layout engine and predictive text core
-- [ ] Prepare MetroBoard repository and app store presence for public beta release on Google Play (will go live with stable 0.7)
-- [ ] Rework branding images and texts of MetroBoard for the app stores
-- [ ] Focus on stability and experience improvements of the app and keyboard
-- [ ] Add support for new features introduced with Android 15 / 16
+- [ ] Emoji panel rework — search, fully scrollable list with soft category borders, swipe-between-categories, more granular theming, layout customization, possible move to emoji2
+- [ ] Glide typing reimplemented on the new layout engine and predictive core (`ime/text/gestures/` has the current statistical classifier)
+- [ ] Prepare the repository and store presence for a public beta on Google Play
+- [ ] Rework branding images and copy for the app stores
+- [ ] Stability and experience pass across the app and keyboard
+- [ ] Android 15 / 16 feature support (compile/target SDK is already 36)
 
-## Backlog / Planned (unassigned)
+## Metro OS integration (MetroBoard-specific)
 
-**Features that MAY be added (even in versions mentioned above) or dismissed**
+- [ ] Metro UI design language parity — tiles, accent theming, motion (`MetroboardAnimation.kt`, `metroTurnstile*`)
+- [ ] Ship the Metro OS default theme set as a bundled theme extension
+- [ ] Follow the Metro OS system accent colour
 
-- Full on-board layout editor which allows users to create their own layouts without writing a JSON file
-- Voice-to-text with Mozilla's open-source voice service (or any other oss voice provider)
+## Backlog / planned (unassigned)
+
+Features that **may** be added — even in the versions above — or dropped.
+
+- Full on-board layout editor (create layouts without writing JSON)
+- Voice-to-text via an open-source voice provider
 - Text translation
-- Stickers/GIFs
-- Kaomoji panel implementation
-- Implementing additional layouts
-- Support for Tasker/Automate/MacroDroid plugins
-- Support for WearOS/Smartwatches
-- Handwriting
+- Stickers / GIFs
+- Kaomoji panel
+- Additional layouts
+- Tasker / Automate / MacroDroid plugin support
+- Wear OS / smartwatch support
+- Handwriting input

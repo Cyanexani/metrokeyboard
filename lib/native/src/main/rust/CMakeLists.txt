@@ -16,7 +16,7 @@ else()
     message(STATUS "Using Rust toolchain: ${RUSTUP_EXECUTABLE}")
 endif()
 
-### MetroboardBoard ###
+### Metroboard ###
 
 add_library(fl_native SHARED src/lib.c)
 

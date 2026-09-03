@@ -6,7 +6,7 @@
     <string name="metroboard__privacy_policy_url" translatable="false">https://metroboard.org/legal/privacy/</string>
     <string name="metroboard__changelog_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/releases/v{version}</string>
     <string name="metroboard__commit_by_hash_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/commit/{hash}</string>
-    <string name="metroboard__internal_key_codes_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/blob/main/app/src/main/kotlin/dev/patrickgold/metroboard/ime/text/key/KeyCode.kt</string>
+    <string name="metroboard__internal_key_codes_url" translatable="false">https://github.com/Cyanexani/metrokeyboard/blob/main/app/src/main/kotlin/org/metroboard/ime/text/key/KeyCode.kt</string>
     <string name="metroboard__character_key_codes_url" translatable="false">https://unicode-table.com/en</string>
 
     <string name="general__system_string_placeholder" translatable="false">%s</string>
